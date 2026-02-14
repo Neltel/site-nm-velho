@@ -1,0 +1,8 @@
+# Permite acesso a todos os arquivos na pasta uploads e subpastas
+<IfModule mod_authz_core.c>
+    Require all granted
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order Allow,Deny
+    Allow from all
+</IfModule>
