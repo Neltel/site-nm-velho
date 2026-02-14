@@ -80,17 +80,11 @@ include 'includes/header.php';
                     $servicos = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 } catch(PDOException $e) {
                     error_log("Erro ao buscar serviços: " . $e->getMessage());
-                    $servicos = [];
+                    $servicos = getDefaultServices();
                 }
             } else {
-                // Default services when database is not available
-                $servicos = [
-                    ['id' => 1, 'nome' => 'Instalação de Ar Condicionado', 'descricao' => 'Instalação completa com material incluído', 'categoria' => 'instalacao'],
-                    ['id' => 2, 'nome' => 'Manutenção Preventiva', 'descricao' => 'Limpeza e verificação completa do equipamento', 'categoria' => 'manutencao'],
-                    ['id' => 3, 'nome' => 'Limpeza Técnica Completa', 'descricao' => 'Limpeza interna e externa com produtos específicos', 'categoria' => 'limpeza'],
-                    ['id' => 4, 'nome' => 'Reparo Técnico Especializado', 'descricao' => 'Diagnóstico e reparo de problemas técnicos', 'categoria' => 'reparo'],
-                    ['id' => 5, 'nome' => 'Remoção de Equipamento', 'descricao' => 'Remoção segura do ar condicionado', 'categoria' => 'remocao'],
-                ];
+                // Use default services when database is not available
+                $servicos = getDefaultServices();
             }
             
             foreach($servicos as $servico):

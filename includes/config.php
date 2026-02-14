@@ -1,6 +1,10 @@
 <?php
 // includes/config.php
-session_start();
+
+// Iniciar sessão se ainda não foi iniciada
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 
 // Configurações do banco de dados
 define('DB_HOST', 'localhost');
@@ -37,6 +41,17 @@ function formatarMoeda($valor) {
 }
 
 function redirect($url) {
+    // Validate URL to prevent open redirect attacks
+    if (strpos($url, '://') !== false) {
+        // Absolute URL - ensure it's on the same domain
+        $parsed = parse_url($url);
+        $current_host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+        if (!isset($parsed['host']) || $parsed['host'] !== $current_host) {
+            // Don't redirect to external domains
+            error_log("Attempted redirect to external URL: $url");
+            $url = '/';
+        }
+    }
     header("Location: $url");
     exit;
 }
@@ -98,5 +113,18 @@ function getConfigSite($pdo) {
     }
     
     return $configuracoes;
+}
+
+/**
+ * Retorna serviços padrão quando banco de dados não está disponível
+ */
+function getDefaultServices() {
+    return [
+        ['id' => 1, 'nome' => 'Instalação de Ar Condicionado', 'descricao' => 'Instalação completa com material incluído', 'categoria' => 'instalacao'],
+        ['id' => 2, 'nome' => 'Manutenção Preventiva', 'descricao' => 'Limpeza e verificação completa do equipamento', 'categoria' => 'manutencao'],
+        ['id' => 3, 'nome' => 'Limpeza Técnica Completa', 'descricao' => 'Limpeza interna e externa com produtos específicos', 'categoria' => 'limpeza'],
+        ['id' => 4, 'nome' => 'Reparo Técnico Especializado', 'descricao' => 'Diagnóstico e reparo de problemas técnicos', 'categoria' => 'reparo'],
+        ['id' => 5, 'nome' => 'Remoção de Equipamento', 'descricao' => 'Remoção segura do ar condicionado', 'categoria' => 'remocao'],
+    ];
 }
 ?>
