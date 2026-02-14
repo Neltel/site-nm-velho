@@ -1,43 +1,27 @@
 <?php
-// Configuration file for site
+// includes/config.php
+// Arquivo de configuração legado - redireciona para confg.php principal
+// Mantido para compatibilidade com código existente
 
-// Database connection settings
-$hostname = 'localhost';
-$username = 'username';
-$password = 'password';
-$dbname = 'database';
+// Inclui o arquivo de configuração principal
+require_once __DIR__ . '/../confg.php';
 
-// Create a database connection
-$conn = new mysqli($hostname, $username, $password, $dbname);
+// Variáveis de compatibilidade para código legado que usa essas variáveis
+$hostname = DB_HOST;
+$username = DB_USER;
+$password = DB_PASS;
+$dbname = DB_NAME;
 
-// Check for a connection error
-if ($conn->connect_error) {
-    die('Connection failed: ' . $conn->connect_error);
-}
-
-// Security headers
-header('X-Content-Type-Options: nosniff');
-header('X-XSS-Protection: 1; mode=block');
-header('X-Frame-Options: SAMEORIGIN');
-
-// Sanitize input
-function sanitize($data) {
-    return htmlspecialchars(stripslashes(trim($data)));
-}
-
-// Validate email
-function validarEmail($email) {
-    return filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
-}
-
-// Get configuration settings for the site
+/**
+ * Retorna configurações do site (compatibilidade)
+ * @return array Configurações do banco de dados
+ */
 function getConfigSite() {
-    global $hostname, $username, $password, $dbname;
     return [
-        'hostname' => $hostname,
-        'username' => $username,
-        'password' => $password,
-        'dbname' => $dbname,
+        'hostname' => DB_HOST,
+        'username' => DB_USER,
+        'password' => DB_PASS,
+        'dbname' => DB_NAME,
     ];
 }
 ?>
