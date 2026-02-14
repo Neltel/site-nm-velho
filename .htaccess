@@ -1,0 +1,85 @@
+# .htaccess - Otimização SEO Avançada para ClimaTech São José do Rio Preto
+RewriteEngine On
+
+# Redirecionar para HTTPS (ESSENCIAL para SEO)
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirecionar www para não-www (evitar conteúdo duplicado)
+RewriteCond %{HTTP_HOST} ^www\.climatech-sjrp\.com\.br [NC]
+RewriteRule ^(.*)$ https://climatech-sjrp.com.br/$1 [L,R=301]
+
+# URLs Amigáveis para SEO
+RewriteRule ^servicos/instalacao-ar-condicionado-sao-jose-rio-preto$ servicos.php?categoria=instalacao&cidade=sao-jose-rio-preto [L]
+RewriteRule ^servicos/manutencao-ar-condicionado-sao-jose-rio-preto$ servicos.php?categoria=manutencao&cidade=sao-jose-rio-preto [L]
+RewriteRule ^servicos/limpeza-ar-condicionado-sao-jose-rio-preto$ servicos.php?categoria=limpeza&cidade=sao-jose-rio-preto [L]
+RewriteRule ^servicos/reparo-ar-condicionado-sao-jose-rio-preto$ servicos.php?categoria=reparo&cidade=sao-jose-rio-preto [L]
+
+# URLs para cidades da região
+RewriteRule ^regiao/sao-jose-rio-preto$ localizacao.php?cidade=sao-jose-rio-preto [L]
+RewriteRule ^regiao/mirassol$ localizacao.php?cidade=mirassol [L]
+RewriteRule ^regiao/bady-bassitt$ localizacao.php?cidade=bady-bassitt [L]
+RewriteRule ^regiao/ipigua$ localizacao.php?cidade=ipigua [L]
+RewriteRule ^regiao/jose-bonifacio$ localizacao.php?cidade=jose-bonifacio [L]
+
+# URLs para marcas populares
+RewriteRule ^produtos/ar-condicionado-samsung-sao-jose-rio-preto$ produtos.php?marca=Samsung&cidade=sao-jose-rio-preto [L]
+RewriteRule ^produtos/ar-condicionado-lg-sao-jose-rio-preto$ produtos.php?marca=LG&cidade=sao-jose-rio-preto [L]
+RewriteRule ^produtos/ar-condicionado-midea-sao-jose-rio-preto$ produtos.php?marca=Midea&cidade=sao-jose-rio-preto [L]
+
+# Compressão GZIP para melhor performance
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+    AddOutputFilterByType DEFLATE application/json
+</IfModule>
+
+# Cache do navegador - Melhorar velocidade
+<IfModule mod_expires.c>
+    ExpiresActive On
+    
+    # Imagens
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+    
+    # CSS e JavaScript
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType application/x-javascript "access plus 1 month"
+    
+    # Fontes
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType application/font-woff "access plus 1 year"
+    
+    # HTML
+    ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+
+# Prevenir acesso a arquivos sensíveis
+<Files ~ "\.(env|json|config.js|md|gitignore|gitattributes|lock)$">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Proteger contra hotlinking de imagens
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https://climatech-sjrp.com.br/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.climatech-sjrp.com.br/.*$ [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ - [F]
+
+# Error pages personalizadas
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
