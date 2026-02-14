@@ -1,0 +1,19 @@
+# admin/.htaccess
+<IfModule mod_security.c>
+  SecFilterEngine Off
+  SecFilterScanPOST Off
+</IfModule>
+
+# Permitir uploads de arquivos
+<IfModule mod_php.c>
+  php_value upload_max_filesize 10M
+  php_value post_max_size 10M
+  php_value max_execution_time 300
+  php_value max_input_time 300
+</IfModule>
+
+# Headers para evitar conflitos
+<IfModule mod_headers.c>
+  Header always unset X-Powered-By
+  Header unset X-Powered-By
+</IfModule>
