@@ -10,16 +10,8 @@ if (session_status() == PHP_SESSION_NONE) {
 // Incluir configuração
 include_once 'config.php';
 
-// Verificar se a conexão PDO existe
-if (!isset($pdo)) {
-    try {
-        $pdo = new PDO("mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=utf8", DB_USER, DB_PASS);
-        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    } catch(PDOException $e) {
-        error_log("Erro de conexão: " . $e->getMessage());
-        die("Erro de conexão com o banco de dados");
-    }
-}
+// Verificar se a conexão PDO existe - não é mais necessário criar aqui pois config.php já cria
+// O $pdo pode ser null se o banco não estiver disponível, mas isso é tratado em getConfigSite()
 
 // Buscar configurações do site
 try {

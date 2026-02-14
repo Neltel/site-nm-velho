@@ -72,9 +72,20 @@ include 'includes/header.php';
         
         <div class="services-grid-modern">
             <?php
-            $stmt = $pdo->prepare("SELECT * FROM servicos WHERE ativo = 1 LIMIT 6");
-            $stmt->execute();
-            $servicos = $stmt->fetchAll(PDO::FETCH_ASSOC);
+            // Check if database is available
+            if ($pdo) {
+                try {
+                    $stmt = $pdo->prepare("SELECT * FROM servicos WHERE ativo = 1 LIMIT 6");
+                    $stmt->execute();
+                    $servicos = $stmt->fetchAll(PDO::FETCH_ASSOC);
+                } catch(PDOException $e) {
+                    error_log("Erro ao buscar serviços: " . $e->getMessage());
+                    $servicos = getDefaultServices();
+                }
+            } else {
+                // Use default services when database is not available
+                $servicos = getDefaultServices();
+            }
             
             foreach($servicos as $servico):
                 $icones = [
