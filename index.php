@@ -72,9 +72,26 @@ include 'includes/header.php';
         
         <div class="services-grid-modern">
             <?php
-            $stmt = $pdo->prepare("SELECT * FROM servicos WHERE ativo = 1 LIMIT 6");
-            $stmt->execute();
-            $servicos = $stmt->fetchAll(PDO::FETCH_ASSOC);
+            // Check if database is available
+            if ($pdo) {
+                try {
+                    $stmt = $pdo->prepare("SELECT * FROM servicos WHERE ativo = 1 LIMIT 6");
+                    $stmt->execute();
+                    $servicos = $stmt->fetchAll(PDO::FETCH_ASSOC);
+                } catch(PDOException $e) {
+                    error_log("Erro ao buscar serviços: " . $e->getMessage());
+                    $servicos = [];
+                }
+            } else {
+                // Default services when database is not available
+                $servicos = [
+                    ['id' => 1, 'nome' => 'Instalação de Ar Condicionado', 'descricao' => 'Instalação completa com material incluído', 'categoria' => 'instalacao'],
+                    ['id' => 2, 'nome' => 'Manutenção Preventiva', 'descricao' => 'Limpeza e verificação completa do equipamento', 'categoria' => 'manutencao'],
+                    ['id' => 3, 'nome' => 'Limpeza Técnica Completa', 'descricao' => 'Limpeza interna e externa com produtos específicos', 'categoria' => 'limpeza'],
+                    ['id' => 4, 'nome' => 'Reparo Técnico Especializado', 'descricao' => 'Diagnóstico e reparo de problemas técnicos', 'categoria' => 'reparo'],
+                    ['id' => 5, 'nome' => 'Remoção de Equipamento', 'descricao' => 'Remoção segura do ar condicionado', 'categoria' => 'remocao'],
+                ];
+            }
             
             foreach($servicos as $servico):
                 $icones = [
