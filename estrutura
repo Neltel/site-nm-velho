@@ -1,0 +1,81 @@
+/climatech/
+│
+├── 📄 index.php                          (Página inicial)
+├── 📄 servicos.php                       (Catálogo de serviços)
+├── 📄 produtos.php                       (Loja de produtos)
+├── 📄 orcamento.php                      (Sistema de orçamentos)
+├── 📄 agendamento.php                    (Agendamento online)
+├── 📄 contato.php                        (Página de contato)
+├── 📄 processa_orcamento.php             (Processa formulários)
+├── 📄 processa_agendamento.php           (Processa agendamentos)
+├── 📄 .htaccess                          (Otimização SEO)
+├── 📄 climatech.sql                      (Banco de dados)
+├── 📄 sitemap.xml                        (Mapa do site)
+├── 📄 robots.txt                         (Instruções para robôs)
+│
+├── 📁 admin/                             (PAINEL ADMINISTRATIVO)
+│   ├── 📄 index.php                      (Dashboard)
+│   ├── 📄 login.php                      (Login admin)
+│   ├── 📄 logout.php                     (Logout)
+│   ├── 📄 dashboard.php                  (Painel principal)
+│   ├── 📄 servicos.php                   (Gerenciar serviços)
+│   ├── 📄 produtos.php                   (Gerenciar produtos)
+│   ├── 📄 clientes.php                   (Gerenciar clientes)
+│   ├── 📄 orcamentos.php                 (Gerenciar orçamentos)
+│   ├── 📄 agendamentos.php               (Gerenciar agendamentos)
+│   ├── 📄 configuracoes.php              (Configurações do site)
+│   ├── 📄 materiais.php                  (Gerenciar materiais)
+│   └── 📁 includes/
+│       ├── 📄 header-admin.php
+│       └── 📄 footer-admin.php
+│
+├── 📁 includes/                          (ARQUIVOS DO SISTEMA)
+│   ├── 📄 config.php                     (Configurações)
+│   ├── 📄 header.php                     (Cabeçalho do site)
+│   ├── 📄 footer.php                     (Rodapé do site)
+│   ├── 📄 funcoes.php                    (Funções auxiliares)
+│   ├── 📄 database.php                   (Conexão com banco)
+│   ├── 📄 auth.php                       (Autenticação)
+│   └── 📄 seo.php                        (Otimização SEO)
+│
+├── 📁 css/                               (ESTILOS)
+│   ├── 📄 style.css                      (Estilo principal)
+│   ├── 📄 admin.css                      (Estilo do admin)
+│   ├── 📄 responsive.css                 (Design responsivo)
+│   └── 📄 orcamento.css                  (Estilo orçamentos)
+│
+├── 📁 js/                                (JAVASCRIPT)
+│   ├── 📄 script.js                      (JS principal)
+│   ├── 📄 admin.js                       (JS do admin)
+│   ├── 📄 orcamento.js                   (JS orçamentos)
+│   ├── 📄 agendamento.js                 (JS agendamento)
+│   └── 📄 ia-diagnostico.js              (IA de diagnósticos)
+│
+├── 📁 uploads/                           (ARQUIVOS ENVIADOS)
+│   ├── 📁 produtos/
+│   ├── 📁 servicos/
+│   ├── 📁 clientes/
+│   └── 📁 orcamentos/
+│
+├── 📁 ia/                                (SISTEMA DE IA)
+│   ├── 📄 diagnostico.php                (Diagnóstico técnico)
+│   ├── 📄 checklist.php                  (Checklist inteligente)
+│   ├── 📄 relatorios.php                 (Gerar relatórios)
+│   ├── 📄 codigos_erro.php               (Base de códigos de erro)
+│   ├── 📄 calculos_tecnicos.php          (Cálculos ΔT, tensão, etc)
+│   └── 📄 base_conhecimento.php          (Base técnica)
+│
+├── 📁 api/                               (APIs DO SISTEMA)
+│   ├── 📄 orcamentos.php                 (API orçamentos)
+│   ├── 📄 agendamentos.php               (API agendamentos)
+│   ├── 📄 clientes.php                   (API clientes)
+│   └── 📄 ia.php                         (API IA)
+│
+└── 📁 assets/                            (RECURSOS)
+    ├── 📁 images/
+    │   ├── 📁 produtos/
+    │   ├── 📁 servicos/
+    │   ├── 📁 icons/
+    │   └── 📁 logos/
+    ├── 📁 fonts/
+    └── 📁 docs/

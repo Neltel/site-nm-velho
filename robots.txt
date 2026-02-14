@@ -1,0 +1,56 @@
+# robots.txt para https://nmrefrigeracao.business
+# Permitir bots bem-comportados e declarar local do sitemap
+
+User-agent: *
+# Bloquear diretórios administrativos e de staging
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+# Bloquear parâmetros que causam conteúdo duplicado (exemplo)
+Disallow: /*?*sessionid=
+# Permitir o resto
+Allow: /
+
+# Sitemap (ajuste para o caminho real)
+Sitemap: https://nmrefrigeracao.business/sitemap.xml
+# Se você tiver versões em HTTP/WWW, redirecione para a canonical HTTPS/WWW no servidor, não pelo robots.txt
+
+# robots.txt otimizado para ClimaTech São José do Rio Preto
+User-agent: *
+Allow: /
+
+# Sitemap principal
+Sitemap: https://nmrefrigeracao.business/sitemap.xml
+
+# Permitir indexação de todas as páginas importantes
+Allow: /servicos/
+Allow: /produtos/
+Allow: /orcamento/
+Allow: /agendamento/
+Allow: /contato/
+
+# Bloquear áreas administrativas
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config/
+
+# Arquivos desnecessários para indexação
+Disallow: /search.php
+Disallow: /print/
+
+# Parâmetros de URL a ignorar
+Disallow: /*?sessionid=
+Disallow: /*?referrer=
+Disallow: /*?utm_campaign=
+
+# Permitir crawlers específicos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

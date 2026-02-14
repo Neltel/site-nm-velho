@@ -1,0 +1,1 @@
+Não é possível editar o arquivo
