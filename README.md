@@ -174,12 +174,31 @@ site-nm-velho/
 
 ### 1. Banco de Dados
 
+**⚠️ IMPORTANTE DE SEGURANÇA:**
+As credenciais do banco de dados estão atualmente hardcoded no arquivo `confg.php`. 
+Em um ambiente de produção, você deve:
+
+1. Mover as credenciais para variáveis de ambiente
+2. Usar um arquivo `.env` que NÃO seja commitado no git
+3. Adicionar `.env` ao `.gitignore`
+4. Usar uma biblioteca como `vlucas/phpdotenv` para carregar as variáveis
+
+**Configuração Atual (Desenvolvimento):**
 ```php
 // Credenciais configuradas em confg.php
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'nmrefrig_imperio');
 define('DB_USER', 'nmrefrig_imperio');
 define('DB_PASS', 'JEJ5qnvpLRbACP7tUhu6');
+```
+
+**Configuração Recomendada (Produção):**
+```php
+// Use variáveis de ambiente
+define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
+define('DB_NAME', getenv('DB_NAME'));
+define('DB_USER', getenv('DB_USER'));
+define('DB_PASS', getenv('DB_PASS'));
 ```
 
 ### 2. Criar Tabelas

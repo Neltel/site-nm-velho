@@ -429,7 +429,8 @@ $csrf_token = generateCsrfToken();
             <p>Sistema de Gerenciamento Integrado</p>
             <a href="../index.php" class="back-link">← Voltar ao site</a>
             
-            <!-- Credenciais de teste (REMOVER EM PRODUÇÃO) -->
+            <?php if ($_SERVER['SERVER_NAME'] === 'localhost' || strpos($_SERVER['SERVER_NAME'], '127.0.0.1') !== false): ?>
+            <!-- Credenciais de teste (APENAS EM DESENVOLVIMENTO) -->
             <div class="credentials-info">
                 <h4>🔐 Credenciais de Desenvolvimento</h4>
                 <p><strong>Usuário:</strong> <code>admin</code></p>
@@ -439,6 +440,7 @@ $csrf_token = generateCsrfToken();
                     Em produção, altere a senha imediatamente!
                 </p>
             </div>
+            <?php endif; ?>
         </div>
     </div>
 

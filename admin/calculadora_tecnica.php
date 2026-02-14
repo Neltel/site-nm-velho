@@ -11,8 +11,8 @@
  * 5. Normas Técnicas
  */
 
-require_once 'includes/auth.php';
-require_once '../confg.php';
+require_once '../confg.php'; // Arquivo de configuração principal
+require_once 'includes/auth.php'; // Verificação de autenticação
 
 // Verificar autenticação
 requireAdminAuth();

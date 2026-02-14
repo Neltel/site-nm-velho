@@ -8,6 +8,12 @@
  * - Orçamentos
  * - Cobranças
  * - Lembretes de manutenção
+ * 
+ * IMPORTANTE: Esta implementação atualmente SIMULA o envio de mensagens.
+ * Para usar em produção, você deve:
+ * 1. Configurar uma API real do WhatsApp (Twilio, MessageBird, etc.)
+ * 2. Implementar o método enviarMensagem() com a integração real
+ * 3. Atualizar as configurações no banco de dados
  */
 
 class WhatsAppIntegration {
@@ -16,6 +22,7 @@ class WhatsAppIntegration {
     private $apiKey;
     private $numero;
     private $ativo;
+    private $modoSimulacao = true; // Define se está em modo simulação
     
     /**
      * Construtor
@@ -304,23 +311,31 @@ class WhatsAppIntegration {
             // Aqui você integraria com a API real do WhatsApp Business ou serviço similar
             // Exemplos: Twilio, MessageBird, WhatSender, etc.
             
-            // SIMULAÇÃO PARA DESENVOLVIMENTO
-            $enviado = true; // Simular sucesso
-            $statusApi = 'enviado';
-            $mensagemErro = null;
-            
-            /* EXEMPLO DE INTEGRAÇÃO REAL:
-            $apiUrl = 'https://api.whatsapp.com/send';
-            $response = $this->chamarAPI($apiUrl, [
-                'api_key' => $this->apiKey,
-                'phone' => $telefone,
-                'message' => $mensagem,
-                'attachments' => $anexos
-            ]);
-            $enviado = $response['success'];
-            $statusApi = $response['status'];
-            $mensagemErro = $response['error'] ?? null;
-            */
+            // MODO SIMULAÇÃO - Para desenvolvimento
+            if ($this->modoSimulacao) {
+                // Simular sucesso apenas em modo de desenvolvimento
+                $enviado = true;
+                $statusApi = 'simulado';
+                $mensagemErro = 'Modo simulação - mensagem não enviada realmente';
+            } else {
+                // IMPLEMENTAÇÃO REAL - Descomente e configure quando tiver API real
+                /*
+                $apiUrl = 'https://api.whatsapp.com/send';
+                $response = $this->chamarAPI($apiUrl, [
+                    'api_key' => $this->apiKey,
+                    'phone' => $telefone,
+                    'message' => $mensagem,
+                    'attachments' => $anexos
+                ]);
+                $enviado = $response['success'];
+                $statusApi = $response['status'];
+                $mensagemErro = $response['error'] ?? null;
+                */
+                
+                $enviado = false;
+                $statusApi = 'nao_configurado';
+                $mensagemErro = 'API do WhatsApp não configurada. Configure whatsapp_api_key nas configurações.';
+            }
             
             // Registrar no banco de dados
             $stmt = $this->pdo->prepare("

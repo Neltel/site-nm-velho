@@ -391,7 +391,17 @@ class PDFGenerator {
     
     /**
      * Gera PDF a partir de HTML usando ferramentas disponíveis
-     * Esta é uma implementação simplificada - requer biblioteca de PDF
+     * Esta é uma implementação simplificada
+     * 
+     * REQUISITOS DE SISTEMA:
+     * - Para PDFs reais: wkhtmltopdf deve estar instalado no servidor
+     * - Instalação Ubuntu/Debian: sudo apt-get install wkhtmltopdf
+     * - Instalação CentOS/RHEL: sudo yum install wkhtmltopdf
+     * - Windows: Baixar de https://wkhtmltopdf.org/downloads.html
+     * 
+     * ALTERNATIVAS:
+     * - Use biblioteca TCPDF, FPDF ou DOMPDF se wkhtmltopdf não estiver disponível
+     * - Modifique este método para usar a biblioteca de sua preferência
      */
     private function gerarPDFDeHTML($html, $nomeArquivo, $pasta) {
         // Criar pasta se não existir
@@ -402,19 +412,30 @@ class PDFGenerator {
         
         $caminhoCompleto = $pastaDestino . '/' . $nomeArquivo;
         
-        // MÉTODO 1: Usar wkhtmltopdf se disponível
-        if (shell_exec('which wkhtmltopdf')) {
+        // MÉTODO 1: Usar wkhtmltopdf se disponível (recomendado para produção)
+        $wkhtmltopdf = trim(shell_exec('which wkhtmltopdf 2>/dev/null') ?? '');
+        if (!empty($wkhtmltopdf) && file_exists($wkhtmltopdf)) {
             $htmlFile = tempnam(sys_get_temp_dir(), 'pdf_') . '.html';
             file_put_contents($htmlFile, $html);
-            exec("wkhtmltopdf $htmlFile $caminhoCompleto");
+            
+            // Sanitizar caminho para evitar command injection
+            $htmlFileEscaped = escapeshellarg($htmlFile);
+            $caminhoCompletoEscaped = escapeshellarg($caminhoCompleto);
+            
+            exec("$wkhtmltopdf $htmlFileEscaped $caminhoCompletoEscaped 2>&1", $output, $returnCode);
             unlink($htmlFile);
-        }
-        // MÉTODO 2: Salvar como HTML (fallback se PDF não disponível)
-        else {
-            file_put_contents($caminhoCompleto, $html);
+            
+            if ($returnCode === 0 && file_exists($caminhoCompleto)) {
+                return 'uploads/' . $pasta . '/' . $nomeArquivo;
+            }
         }
         
-        return 'uploads/' . $pasta . '/' . $nomeArquivo;
+        // MÉTODO 2: Fallback - Salvar como HTML
+        // NOTA: Em produção, considere usar biblioteca PHP de PDF (TCPDF, FPDF, DOMPDF)
+        $caminhoHtml = str_replace('.pdf', '.html', $caminhoCompleto);
+        file_put_contents($caminhoHtml, $html);
+        
+        return 'uploads/' . $pasta . '/' . basename($caminhoHtml);
     }
 }
 ?>
