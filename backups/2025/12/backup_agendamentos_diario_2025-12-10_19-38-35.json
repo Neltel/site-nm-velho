@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "data": "2025-12-10 19:38:35",
+        "tipo": "diario",
+        "sistema": "N&M Refrigeração IA",
+        "versao": "2.0"
+    },
+    "estatisticas": {
+        "agendamentos": 2,
+        "clientes": 3,
+        "orcamentos": 4,
+        "logs_sistema": 391
+    },
+    "agendamentos_recentes": [
+        {
+            "id": 102,
+            "cliente_id": 50,
+            "servico_id": 7,
+            "data_agendamento": "2025-12-10",
+            "hora_agendamento": "08:00:00",
+            "endereco": null,
+            "tempo_estimado_minutos": 60,
+            "observacoes": "Agendamento via orçamento #93 - Carlos Simonett",
+            "acrescimo_especial": "0.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-10 08:58:50",
+            "origem": "orcamento",
+            "origem_id": null,
+            "data_fim": "2025-12-10",
+            "hora_fim": "08:00:00",
+            "orcamento_id": 93,
+            "cliente_nome": "Carlos Simonett",
+            "telefone": "17996256434"
+        },
+        {
+            "id": 101,
+            "cliente_id": 50,
+            "servico_id": 7,
+            "data_agendamento": "2025-12-11",
+            "hora_agendamento": "08:00:00",
+            "endereco": "Village damha I, N5 - Village, São José do Rio Preto",
+            "tempo_estimado_minutos": 60,
+            "observacoes": "=== SERVIÇOS SOLICITADOS ===\n• Limpeza Completa (no local com bolsa coletora) (x5) - R$ 1.000,00\n  Detalhes dos equipamentos:\n  - Equipamento 1: 12000 BTUs\n  - Equipamento 2: 12000 BTUs\n  - Equipamento 3: 12000 BTUs\n  - Equipamento 4: 24000 BTUs\n  - Equipamento 5: 30000 BTUs\n\n=== AGENDAMENTO ===\nData: 11\/12\/2025\nHorário: 08:00\nCliente: Carlos Simonett\nWhatsApp: (17) 9 9625-6434\n\n=== AJUSTES APLICADOS ===\n\n=== VALORES ===\nTotal ajustes: R$ +0,00\nValor final: R$ 1.000,00\n",
+            "acrescimo_especial": "0.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-10 08:56:39",
+            "origem": "sistema_ia",
+            "origem_id": 93,
+            "data_fim": null,
+            "hora_fim": null,
+            "orcamento_id": null,
+            "cliente_nome": "Carlos Simonett",
+            "telefone": "17996256434"
+        }
+    ]
+}

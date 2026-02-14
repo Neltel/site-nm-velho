@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "data": "2025-12-15 15:11:03",
+        "tipo": "diario",
+        "sistema": "N&M Refrigeração IA",
+        "versao": "2.0"
+    },
+    "estatisticas": {
+        "agendamentos": 2,
+        "clientes": 4,
+        "orcamentos": 4,
+        "logs_sistema": 27
+    },
+    "agendamentos_recentes": [
+        {
+            "id": 113,
+            "cliente_id": 61,
+            "servico_id": 7,
+            "data_agendamento": "2025-12-20",
+            "hora_agendamento": "09:00:00",
+            "endereco": "rua Sebastião de Souza Guimarães casa 14, 200 - Cambui, São José do Rio Preto",
+            "tempo_estimado_minutos": 60,
+            "observacoes": "=== SERVIÇOS SOLICITADOS ===\n• Limpeza Completa (no local com bolsa coletora) (x3) - R$ 600,00\n  Detalhes dos equipamentos:\n  - Equipamento 1: 12000 BTUs\n  - Equipamento 2: 12000 BTUs\n  - Equipamento 3: 18000 BTUs\n\n=== AGENDAMENTO ===\nData: 20\/12\/2025\nHorário: 09:00\nCliente: Daniel da riopretania\nWhatsApp: (17) 9 8138-9114\n\n=== AJUSTES APLICADOS ===\n• Fim de semana\/Feriado: +10% (R$ +60,00)\n\n=== VALORES ===\nTotal ajustes: R$ +60,00\nValor final: R$ 660,00\n",
+            "acrescimo_especial": "60.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-12 11:55:39",
+            "origem": "sistema_ia",
+            "origem_id": 106,
+            "data_fim": null,
+            "hora_fim": null,
+            "orcamento_id": null,
+            "duracao_estimada": "1.50",
+            "cliente_nome": "Daniel da riopretania",
+            "telefone": "17981389114"
+        },
+        {
+            "id": 112,
+            "cliente_id": 60,
+            "servico_id": 8,
+            "data_agendamento": "2025-12-13",
+            "hora_agendamento": "17:00:00",
+            "endereco": "Rua Itanhaém, 138 - Vila Anchieta, São José do Rio Preto",
+            "tempo_estimado_minutos": 60,
+            "observacoes": "=== SERVIÇOS SOLICITADOS ===\n• Manutenção corretiva, Diagnóstico e Reparo (x1) - R$ 100,00\n  Detalhes dos equipamentos:\n  - Equipamento 1: 12000 BTUs\n\n=== AGENDAMENTO ===\nData: 13\/12\/2025\nHorário: 17:00\nCliente: Neltel\nWhatsApp: (34) 9 9916-2340\n\n=== AJUSTES APLICADOS ===\n• Fim de semana\/Feriado: +10% (R$ +10,00)\n• Horário noturno: +5% (R$ +5,00)\n\n=== VALORES ===\nTotal ajustes: R$ +15,00\nValor final: R$ 115,00\n",
+            "acrescimo_especial": "15.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-12 04:59:19",
+            "origem": "sistema_ia",
+            "origem_id": 105,
+            "data_fim": null,
+            "hora_fim": null,
+            "orcamento_id": null,
+            "duracao_estimada": "1.50",
+            "cliente_nome": "Neltel",
+            "telefone": "34999162340"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "data": "2025-12-17 20:43:31",
+        "tipo": "diario",
+        "sistema": "N&M Refrigeração IA",
+        "versao": "2.0"
+    },
+    "estatisticas": {
+        "agendamentos": 3,
+        "clientes": 3,
+        "orcamentos": 3,
+        "logs_sistema": 164
+    },
+    "agendamentos_recentes": [
+        {
+            "id": 123,
+            "cliente_id": 71,
+            "servico_id": 5,
+            "data_agendamento": "2025-12-20",
+            "hora_agendamento": "08:00:00",
+            "endereco": "fdfdfdfd, sdsd - sdsd, sdsdsd",
+            "tempo_estimado_minutos": 60,
+            "observacoes": "=== SERVIÇOS SOLICITADOS ===\n• Instalação de ar condicionado (x1) - R$ 350,00\n  Detalhes dos equipamentos:\n  - Equipamento 1: 12000 BTUs\n• Limpeza Completa (no local com bolsa coletora) (x2) - R$ 400,00\n  Detalhes dos equipamentos:\n  - Equipamento 1: 9000 BTUs\n  - Equipamento 2: 24000 BTUs\n\n=== AGENDAMENTO ===\nData: 20\/12\/2025\nHorário: 08:00\nCliente: fgfg fgfg\nWhatsApp: (34) 3 4344-4444\n\n=== AJUSTES APLICADOS ===\n• Fim de semana\/Feriado: +10% (R$ +75,00)\n\n=== VALORES ===\nTotal ajustes: R$ +75,00\nValor final: R$ 825,00\n",
+            "acrescimo_especial": "75.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-17 14:06:19",
+            "origem": "sistema_ia",
+            "origem_id": 117,
+            "data_fim": null,
+            "hora_fim": null,
+            "orcamento_id": null,
+            "duracao_estimada": "1.50",
+            "duracao_estimada_min": 120,
+            "cliente_nome": "fgfg fgfg",
+            "telefone": "34343444444"
+        },
+        {
+            "id": 122,
+            "cliente_id": 70,
+            "servico_id": 5,
+            "data_agendamento": "2025-12-19",
+            "hora_agendamento": "08:00:00",
+            "endereco": "dfdf, dfd - fdf, fdf",
+            "tempo_estimado_minutos": 60,
+            "observacoes": "=== SERVIÇOS SOLICITADOS ===\n• Instalação de ar condicionado (x2) - R$ 700,00\n  Detalhes dos equipamentos:\n  - Equipamento 1: 9000 BTUs\n  - Equipamento 2: 120000 BTUs\n\n=== AGENDAMENTO ===\nData: 19\/12\/2025\nHorário: 08:00\nCliente: sdsdsd\nWhatsApp: (23) 2 3232-3333\n\n=== AJUSTES APLICADOS ===\n\n=== VALORES ===\nTotal ajustes: R$ +0,00\nValor final: R$ 700,00\n",
+            "acrescimo_especial": "0.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-17 14:03:32",
+            "origem": "sistema_ia",
+            "origem_id": 116,
+            "data_fim": null,
+            "hora_fim": null,
+            "orcamento_id": null,
+            "duracao_estimada": "1.50",
+            "duracao_estimada_min": 120,
+            "cliente_nome": "sdsdsd",
+            "telefone": "23232323333"
+        },
+        {
+            "id": 121,
+            "cliente_id": 69,
+            "servico_id": 5,
+            "data_agendamento": "2025-12-18",
+            "hora_agendamento": "08:00:00",
+            "endereco": "dfdf, dfd - fdf, fdf",
+            "tempo_estimado_minutos": 60,
+            "observacoes": "=== SERVIÇOS SOLICITADOS ===\n• Instalação de ar condicionado (x2) - R$ 700,00\n  Tempo:  min (Min:  min | Máx:  min)\n  Detalhes dos equipamentos:\n  - Equipamento 1: 9000 BTUs\n  - Equipamento 2: 120000 BTUs\n\n=== AGENDAMENTO ===\nData: 18\/12\/2025\nHorário: 08:00\nCliente: sdsdsd\nWhatsApp: (23) 2 3232-3333\n\n=== INFORMAÇÕES DE TEMPO ===\nTempo total estimado: 0 min\nFaixa de tempo: 0 min a 0 min\n\n=== AJUSTES APLICADOS ===\n\n=== VALORES ===\nTotal ajustes: R$ +0,00\nValor final: R$ 700,00\n",
+            "acrescimo_especial": "0.00",
+            "status": "agendado",
+            "data_criacao": "2025-12-17 13:07:45",
+            "origem": "sistema_ia",
+            "origem_id": 115,
+            "data_fim": null,
+            "hora_fim": null,
+            "orcamento_id": null,
+            "duracao_estimada": "1.50",
+            "duracao_estimada_min": 120,
+            "cliente_nome": "sdsdsd",
+            "telefone": "23232323333"
+        }
+    ]
+}
