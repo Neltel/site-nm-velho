@@ -1,0 +1,22 @@
+
+:root {
+    /* Colors */
+    --primary-color: #3498db; /* blue */
+    --secondary-color: #2ecc71; /* green */
+    --accent-color: #e74c3c; /* red */
+    --background-color: #ecf0f1; /* light grey */
+    --text-color: #2c3e50; /* dark grey */
+
+    /* Spacing */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+
+    /* Responsive Design */
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+}
