@@ -1,0 +1,839 @@
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1732
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1733
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1734
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1736
+[17-Dec-2025 09:49:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:1737
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(1270): processarRespostaSimples()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1737
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:49:19 America/Sao_Paulo] PHP Warning:  Undefined array key "maximo_minutos" in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1003
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:49:38 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:49:43 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:49:50 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:50:00 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:50:05 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:50:09 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:50:22 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:50:37 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:50:53 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:51:11 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:51:41 America/Sao_Paulo] PHP Warning:  Undefined array key "maximo_minutos" in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1003
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1732
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1733
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1734
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1736
+[17-Dec-2025 09:52:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:1737
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(1270): processarRespostaSimples()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1737
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1732
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1733
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1734
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1736
+[17-Dec-2025 09:52:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:1737
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(1270): processarRespostaSimples()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1737
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 09:52:13 America/Sao_Paulo] PHP Warning:  Undefined array key "maximo_minutos" in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1003
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:20:42 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:20:44 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:47:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:47:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:47:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:46 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:47:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:47:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:47:59 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:03 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:14 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:17 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:22 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:27 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:33 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:46 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:51 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:54 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:48:59 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:05 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:11 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:17 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:21 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:49:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:49:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:47 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:51 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 910
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 911
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 912
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 914
+[17-Dec-2025 10:49:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:915
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(542): processarResposta()
+#1 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 915
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:19:45 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:21:38 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:37:56 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:37:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:38:04 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:38:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:38:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:38:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:38:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:38:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:38:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:39:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:39:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:39:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Warning:  Undefined array key "maximo_minutos" in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1003
+[17-Dec-2025 11:39:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1732
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1733
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1734
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Deprecated:  DateTime::createFromFormat(): Passing null to parameter #2 ($datetime) of type string is deprecated in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1736
+[17-Dec-2025 11:39:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: __clone method called on non-object in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:1737
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php(1270): processarRespostaSimples()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(18): require_once('...')
+#2 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1737
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:39:49 America/Sao_Paulo] PHP Warning:  Undefined array key "maximo_minutos" in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1003
+[17-Dec-2025 11:39:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:40:20 America/Sao_Paulo] PHP Warning:  Undefined array key "maximo_minutos" in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 1003
+[17-Dec-2025 11:40:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:41:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:41:24 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:41:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:45:43 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 39
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 40
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 41
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 42
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 43
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 44
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  Constant SITE_NOME already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 230
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  Constant SITE_DESCRICAO already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 237
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Warning:  Constant SITE_TELEFONE already defined in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/includes/config.php on line 244
+[17-Dec-2025 11:50:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php:938
+Stack trace:
+#0 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(353): verificarDisponibilidadeComTempo()
+#1 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(768): TestSistemaIA->testJanelasHorario()
+#2 /home/nmrefrig/domains/nmrefrigeracao.business/private_html/test-sistema-ia.php(834): TestSistemaIA->runAllTests()
+#3 {main}
+  thrown in /home/nmrefrig/domains/nmrefrigeracao.business/private_html/sistema-ia.php on line 938
